@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to C Programming",
+      "image": "https://i.ibb.co/hVt01Jr/Rectangle-2-2.png",
+      "description":"A foundational course exploring the basics of C programming language,syntax,structures.",
+      "price": 15000,
+      "credit": 1
+    },
+    {
+      "id": 2,
+      "title": "Introduction to Algorithms",
+      "image": "https://i.ibb.co/pJsyswP/Rectangle-2-3.png",
+      "description":"An overview of algorithm design and  analysis, focusing on problem-solving techniques.",
+      "price": 25000,
+      "credit": 2
+    },
+    {
+      "id": 3,
+      "title": "Introduction to C++ for DSA",
+      "image": "https://i.ibb.co/xDggNrS/Rectangle-2-4.png",
+      "description":"Introduces C++ programming with a focus on Data Structures Algorithms implementation.",
+      "price": 10000,
+      "credit": 10
+    },
+    {
+      "id": 4,
+      "title": "Basic Data Structures",
+      "image": "https://i.ibb.co/DR9Fsgt/Rectangle-3.png",
+      "description":"Covers the fundamental data structures such as arrays , linked lists , stacks , and queues.",
+      "price": 35000,
+      "credit": 5
+    },
+    {
+      "id": 5,
+      "title": "Introduction to OOP Python",
+      "image": "https://i.ibb.co/N61whGR/Rectangle-2.png",
+      "description":"Introduces Object-Oriented Programming (OOP) principles using the Python programming.",
+      "price": 19000,
+      "credit": 5
+    },
+    {
+      "id": 6,
+      "title": "Software Engineering",
+      "image": "https://i.ibb.co/r40sGGm/Rectangle-2-5.png",
+      "description":"Explores software development methodologies, design patterns, and project management.",
+      "price": 23000,
+      "credit": 2
+    },
+    {
+      "id": 7,
+      "title": "AWS, Cloud Computing",
+      "image": "https://i.ibb.co/SK2v4GB/Rectangle-3-1.png",
+      "description":"An introduction to Amazon Web Services,cover cloud computing services infrastructure.",
+      "price": 35000,
+      "credit": 5
+    },
+    {
+      "id": 8,
+      "title": "Database (MySQL)",
+      "image": "https://i.ibb.co/MDJvtQs/Rectangle-2-1.png",
+      "description":"An introduction to MySQL database management, covering SQL queries and database design.",
+      "price": 19000,
+      "credit": 5
+    },
+    {
+      "id": 9,
+      "title": "Problem-Solving Part",
+      "image": "https://i.ibb.co/TtVPRDR/Rectangle-2-6.png",
+      "description":"Develops problem-solving skills  various   enhancing critical thinking and algorithmic.",
+      "price": 23000,
+      "credit": 2
+    }
+  ]
