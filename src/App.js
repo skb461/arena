@@ -3,7 +3,7 @@ function App() {
     <div className="App">
      <header>
 
-        <div class="header-top">
+        {/* <div class="header-top">
 
           <div class="container">
 
@@ -62,7 +62,7 @@ function App() {
 
           </div>
 
-        </div>
+        </div> */}
 
         <div class="header-main">
 
@@ -94,10 +94,10 @@ function App() {
                 <span class="count">0</span>
               </button>
 
-              <button class="action-btn">
+              {/* <button class="action-btn">
                 <ion-icon name="bag-handle-outline"></ion-icon>
                 <span class="count">0</span>
-              </button>
+              </button> */}
 
             </div>
 
@@ -158,58 +158,6 @@ function App() {
               </li>
 
               <li class="menu-category">
-                <a href="#" class="menu-title">Men's</a>
-
-                <ul class="dropdown-list">
-
-                  <li class="dropdown-item">
-                    <a href="#">Shirt</a>
-                  </li>
-
-                  <li class="dropdown-item">
-                    <a href="#">Shorts & Jeans</a>
-                  </li>
-
-                  <li class="dropdown-item">
-                    <a href="#">Safety Shoes</a>
-                  </li>
-
-                  <li class="dropdown-item">
-                    <a href="#">Wallet</a>
-                  </li>
-
-                </ul>
-              </li>
-
-              <li class="menu-category">
-                <a href="#" class="menu-title">Perfume</a>
-
-                <ul class="dropdown-list">
-
-                  <li class="dropdown-item">
-                    <a href="#">Clothes Perfume</a>
-                  </li>
-
-                  <li class="dropdown-item">
-                    <a href="#">Deodorant</a>
-                  </li>
-
-                  <li class="dropdown-item">
-                    <a href="#">Flower Fragrance</a>
-                  </li>
-
-                  <li class="dropdown-item">
-                    <a href="#">Air Freshener</a>
-                  </li>
-
-                </ul>
-              </li>
-
-              <li class="menu-category">
-                <a href="#" class="menu-title">Blog</a>
-              </li>
-
-              <li class="menu-category">
                 <a href="#" class="menu-title">Hot Offers</a>
               </li>
 
@@ -264,76 +212,6 @@ function App() {
             </li>
 
             <li class="menu-category">
-
-              <button class="accordion-menu" data-accordion-btn>
-                <p class="menu-title">Men's</p>
-
-                <div>
-                  <ion-icon name="add-outline" class="add-icon"></ion-icon>
-                  <ion-icon name="remove-outline" class="remove-icon"></ion-icon>
-                </div>
-              </button>
-
-              <ul class="submenu-category-list" data-accordion>
-
-                <li class="submenu-category">
-                  <a href="#" class="submenu-title">Shirt</a>
-                </li>
-
-                <li class="submenu-category">
-                  <a href="#" class="submenu-title">Shorts & Jeans</a>
-                </li>
-
-                <li class="submenu-category">
-                  <a href="#" class="submenu-title">Safety Shoes</a>
-                </li>
-
-                <li class="submenu-category">
-                  <a href="#" class="submenu-title">Wallet</a>
-                </li>
-
-              </ul>
-
-            </li>
-
-            <li class="menu-category">
-
-              <button class="accordion-menu" data-accordion-btn>
-                <p class="menu-title">Perfume</p>
-
-                <div>
-                  <ion-icon name="add-outline" class="add-icon"></ion-icon>
-                  <ion-icon name="remove-outline" class="remove-icon"></ion-icon>
-                </div>
-              </button>
-
-              <ul class="submenu-category-list" data-accordion>
-
-                <li class="submenu-category">
-                  <a href="#" class="submenu-title">Clothes Perfume</a>
-                </li>
-
-                <li class="submenu-category">
-                  <a href="#" class="submenu-title">Deodorant</a>
-                </li>
-
-                <li class="submenu-category">
-                  <a href="#" class="submenu-title">Flower Fragrance</a>
-                </li>
-
-                <li class="submenu-category">
-                  <a href="#" class="submenu-title">Air Freshener</a>
-                </li>
-
-              </ul>
-
-            </li>
-
-            <li class="menu-category">
-              <a href="#" class="menu-title">Blog</a>
-            </li>
-
-            <li class="menu-category">
               <a href="#" class="menu-title">Hot Offers</a>
             </li>
 
@@ -341,7 +219,7 @@ function App() {
 
           <div class="menu-bottom">
 
-            <ul class="menu-category-list">
+            {/* <ul class="menu-category-list">
 
               <li class="menu-category">
 
@@ -382,7 +260,7 @@ function App() {
                 </ul>
               </li>
 
-            </ul>
+            </ul> */}
 
             <ul class="menu-social-container">
 
@@ -501,7 +379,7 @@ function App() {
 
        
 
-        <div class="category">
+        {/* <div class="category">
 
           <div class="container">
 
@@ -651,7 +529,7 @@ function App() {
 
           </div>
 
-        </div>
+        </div> */}
 
 
 
@@ -668,7 +546,7 @@ function App() {
 
             <div class="sidebar  has-scrollbar" data-mobile-menu>
 
-              <div class="sidebar-category">
+              {/* <div class="sidebar-category">
 
                 <div class="sidebar-top">
                   <h2 class="sidebar-title">Category</h2>
@@ -913,7 +791,7 @@ function App() {
 
                 </ul>
 
-              </div>
+              </div> */}
 
               <div class="product-showcase">
 
@@ -1056,7 +934,7 @@ function App() {
 
               <div class="product-minimal">
 
-                <div class="product-showcase">
+                {/* <div class="product-showcase">
 
                   <h2 class="title">New Arrivals</h2>
 
@@ -1164,7 +1042,7 @@ function App() {
 
                   </div>
 
-                </div>
+                </div> */}
 
                 <div class="product-showcase">
                 
@@ -2270,7 +2148,7 @@ function App() {
 
 
 
-        <div class="blog">
+        {/* <div class="blog">
 
           <div class="container">
 
@@ -2371,7 +2249,7 @@ function App() {
 
           </div>
 
-        </div>
+        </div> */}
 
         </main>
 
@@ -2382,7 +2260,7 @@ function App() {
        
         <footer>
 
-        <div class="footer-category">
+        {/* <div class="footer-category">
 
           <div class="container">
 
@@ -2427,7 +2305,7 @@ function App() {
 
           </div>
 
-        </div>
+        </div> */}
 
         <div class="footer-nav">
 
@@ -2461,7 +2339,7 @@ function App() {
 
             </ul>
 
-            {/* <ul class="footer-nav-list">
+            <ul class="footer-nav-list">
             
               <li class="footer-nav-item">
                 <h2 class="nav-title">Products</h2>
@@ -2487,7 +2365,7 @@ function App() {
                 <a href="#" class="footer-nav-link">Sitemap</a>
               </li>
             
-            </ul> */}
+            </ul>
 
             <ul class="footer-nav-list">
             
