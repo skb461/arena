@@ -1,5 +1,92 @@
-.App {
-    font-family: sans-serif;
-    text-align: center;
-  }
-  
+.main {
+  padding: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20px;
+}
+
+.app {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.buttons {
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+button {
+  margin: 5px;
+  padding: 2px;
+  cursor: pointer;
+}
+
+.image-container img {
+  padding: 2px;
+  max-width: 500px;
+  height: auto;
+}
+
+.btn_img{
+  height: 48px;
+  width: 48px;
+}
+
+.image-container-design img {
+  margin-top: -5%;
+  margin-left: -100%;
+  padding: 2px;
+  max-width: 500px;
+  height: auto;
+}
+
+.buttons-design {
+  margin-left: -45%;
+  margin-bottom: 20px;
+}
+
+.btn_img_design{
+  height: 110px;
+  width: 110px;
+}
+
+.text{
+  margin-left: -35%;
+}
+
+.size_button_div{ 
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.size_button{
+  width: 70px;
+  text-align: center;
+  color: rgb(69, 69, 69);
+  font-size: 30px;
+  margin: 5px;
+  padding: 3px;
+  border: 3px solid #3ec500a9;
+  border-radius: 10px;
+}
+
+.Offer{
+  font-size: 40px;
+  color: #00864e;
+}
+
+.ad_in{
+  background: transparent;
+  clear: #2b303b;
+  border-radius: 50px;
+  border: 0px;
+  border-bottom: 5px solid #00864e;
+  border-left: 5px solid #00864e;
+  border-right: 5px solid #00864e;
+  margin-top: 20px;
+  padding: 5px;
+}
