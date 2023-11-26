@@ -90,3 +90,58 @@ button {
   margin-top: 20px;
   padding: 5px;
 }
+.form_signUp{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  padding: 50px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #00f3394d;
+  border-radius: 20px;
+}
+.form_signUp h4{
+  font-size: 50px;
+  font-weight: bolder;
+  color: rgb(39, 99, 173);
+  padding: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  border-bottom: 5px solid rgb(39, 99, 173);
+}
+.form_signUp div{
+  font-size: 25px;
+  color: #535353;
+  font-weight: bold;
+  padding-top: 20px;
+}
+.form_signUp input{
+  margin-top: 10px;
+  font-size: 15px;
+  color: #004327;
+  padding: 5px;
+  background: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0), 0.1);
+  border-radius: 5px;
+  border: none;
+}
+.form_signUp .btn{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 20px;
+  background: transparent;
+  border: 1px solid #004409;
+  border-radius: 10%;
+  transition: .7s ease-in-out;
+}
+.form_signUp .btn:hover{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 32px;
+  padding-right: 32px;
+  border-radius: 12%;
+  background: #2c8a38;
+  color: aliceblue;
+  border: 1px solid #2c8a38;
+}
